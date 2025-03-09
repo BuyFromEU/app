@@ -1,0 +1,112 @@
+{
+  "button": {
+    "clear": "Clear",
+    "edit": "Edit",
+    "more": "More"
+  },
+  "bottomNav": {
+    "home": "Home",
+    "scan": "Scan",
+    "post": "Post",
+    "settings": "Settings"
+  },
+  "homePage": {
+    "title": "Home",
+    "slogan": "Use European products.\nPromote European independence.",
+    "search": "Search...",
+    "searchResults": "Search results",
+    "newest": "New",
+    "popular": "Popular",
+    "moreInformation": "More information"
+  },
+  "scanPage": {
+    "title": "Scan",
+    "description": "Scan the barcode of a product to get more information."
+  },
+  "postPage": {
+    "title": "Post",
+    "description": "Capture a new product to support the community.",
+    "fields": {
+      "barcode": "Barcode (optional, e.g. EAN, ISBN)",
+      "productName": "Product name",
+      "country": "Country of origin"
+    },
+    "certify": "I certify that this product exists. The device will be blocked in case of spam.",
+    "create": "Create",
+    "created": "Product created"
+  },
+  "settingsPage": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "themeOptions": {
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    },
+    "userName": "Username",
+    "userNameNotSet": "Not set"
+  },
+  "productPage": {
+    "title": "Product",
+    "euQuestion": "Is this product European?",
+    "euHint": "We also include Great Britain, Switzerland, etc.",
+    "alternatives": "Alternatives",
+    "alternativeOf": "Alternative of",
+    "addAlternative": "Add alternative",
+    "comments": "Comments",
+    "noComments": "No comments yet"
+  },
+  "alternativeListPage": {
+    "title": "Alternatives"
+  },
+  "productSelectPage": {
+    "title": "Select product",
+    "search": "Search...",
+    "select": "Select",
+    "createNew": "Create new product"
+  },
+  "alternativeProductPage": {
+    "title": "Alternative",
+    "rating": "Alternative:",
+    "alternativeQuestion": "Is this product a good alternative?"
+  },
+  "noScanResultPage": {
+    "title": "Scan Result",
+    "description": "No product found.",
+    "descriptionSub": "Do you want to submit a product to help the community?",
+    "select": "Select product"
+  },
+  "vote": {
+    "yes": "Yes",
+    "no": "No",
+    "comment": "Comment",
+    "enterComment": "Enter comment",
+    "certify": "No hate speech or spam"
+  },
+  "pagination": {
+    "emptyTitle": "No entries found",
+    "emptyDescription": "The list ist currently empty."
+  },
+  "error": {
+    "generic": "An error occurred."
+  },
+  "dialogs": {
+    "notEuropeanWarningDialog": {
+      "title": "Warning",
+      "content": "This product is not European. Do you still want to add it?"
+    },
+    "europeanWarningDialog": {
+      "title": "Warning",
+      "content": "This product is European. Only non-European products should be added and discussed. Do you want to continue?"
+    },
+    "changeVoteWarning": {
+      "title": "Change vote",
+      "content": "Your comment will be deleted if you change your vote. Do you want to continue?"
+    },
+    "productDeleteDialog": {
+      "title": "Delete product",
+      "content": "Do you really want to delete this product?"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "button": {
+    "clear": "Löschen",
+    "edit": "Bearbeiten",
+    "more": "Mehr"
+  },
+  "bottomNav": {
+    "home": "Home",
+    "scan": "Scan",
+    "post": "Beitrag",
+    "settings": "Einst."
+  },
+  "homePage": {
+    "title": "Home",
+    "slogan": "Benutze europäische Produkte.\nFördere die europäische Unabhängigkeit.",
+    "search": "Suchen...",
+    "searchResults": "Suchergebnisse",
+    "newest": "Neu",
+    "popular": "Beliebteste",
+    "moreInformation": "Mehr Informationen"
+  },
+  "scanPage": {
+    "title": "Scan",
+    "description": "Scanne den Strichcode eines Produkts, um mehr Informationen zu erhalten."
+  },
+  "postPage": {
+    "title": "Beitrag",
+    "description": "Erfasse ein neues Produkt, um die Community zu unterstützen.",
+    "fields": {
+      "barcode": "Strichcode (optional, z.B. EAN, ISBN)",
+      "productName": "Produktname",
+      "country": "Herkunftsland"
+    },
+    "certify": "Ich versichere, dass dieses Produkt existiert. Das Gerät wird bei Spam gesperrt.",
+    "create": "Erstellen",
+    "created": "Produkt erstellt"
+  },
+  "settingsPage": {
+    "title": "Einstellungen",
+    "language": "Sprache",
+    "theme": "Thema",
+    "themeOptions": {
+      "light": "Hell",
+      "dark": "Dunkel",
+      "system": "System"
+    },
+    "userName": "Benutzername",
+    "userNameNotSet": "Nicht festgelegt"
+  },
+  "productPage": {
+    "title": "Produkt",
+    "euQuestion": "Ist dieses Produkt europäisch?",
+    "euHint": "Wir schließen auch Großbritannien, die Schweiz usw. ein.",
+    "alternatives": "Alternativen",
+    "alternativeOf": "Alternative von",
+    "addAlternative": "Alternative hinzufügen",
+    "comments": "Kommentare",
+    "noComments": "Noch keine Kommentare"
+  },
+  "alternativeListPage": {
+    "title": "Alternativen"
+  },
+  "productSelectPage": {
+    "title": "Produkt auswählen",
+    "search": "Suchen...",
+    "select": "Auswählen",
+    "createNew": "Neues Produkt erstellen"
+  },
+  "alternativeProductPage": {
+    "title": "Alternative",
+    "rating": "Alternative:",
+    "alternativeQuestion": "Ist dieses Produkt eine gute Alternative?"
+  },
+  "noScanResultPage": {
+    "title": "Scanergebnis",
+    "description": "Kein Produkt gefunden.",
+    "descriptionSub": "Möchtest du ein neues Produkt einreichen, um die Community zu unterstützen?",
+    "select": "Produkt auswählen"
+  },
+  "vote": {
+    "yes": "Ja",
+    "no": "Nein",
+    "comment": "Kommentieren",
+    "enterComment": "Kommentar eingeben",
+    "certify": "Keine Hassrede oder Spam"
+  },
+  "pagination": {
+    "emptyTitle": "Keine Einträge gefunden",
+    "emptyDescription": "Die Liste ist momentan leer."
+  },
+  "error": {
+    "generic": "Ein Fehler ist aufgetreten."
+  },
+  "dialogs": {
+    "notEuropeanWarningDialog": {
+      "title": "Warnung",
+      "content": "Dieses Produkt ist nicht europäisch. Möchtest du es trotzdem hinzufügen?"
+    },
+    "europeanWarningDialog": {
+      "title": "Warnung",
+      "content": "Dieses Produkt ist europäisch. Es sollten nur nicht-europäische Produkte hinzugefügt und diskutiert werden. Möchtest du fortfahren?"
+    },
+    "changeVoteWarning": {
+      "title": "Stimme ändern",
+      "content": "Dein Kommentar wird gelöscht, wenn du deine Stimme änderst. Möchtest du fortfahren?"
+    },
+    "productDeleteDialog": {
+      "title": "Produkt löschen",
+      "content": "Möchtest du dieses Produkt wirklich löschen?"
+    }
+  }
+}
