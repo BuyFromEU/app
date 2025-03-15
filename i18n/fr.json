@@ -1,0 +1,142 @@
+{
+    "button": {
+      "clear": "Effacer",
+      "edit": "Editer",
+      "more": "Plus"
+    },
+    "bottomNav": {
+      "home": "Accueil",
+      "scan": "Scanner",
+      "post": "Poster",
+      "settings": "Paramètres"
+    },
+    "homePage": {
+      "title": "Accueil",
+      "slogan": "Utiliser des produits européens.\nPromouvoir l'indépendance européenne.",
+      "search": "Rechercher...",
+      "searchResults": "Résultats de recherche",
+      "newest": "Nouveaux",
+      "popular": "Populaires",
+      "moreInformation": "Plus d'informations"
+    },
+    "scanPage": {
+      "title": "Scanner",
+      "description": "Scanner le code-barre d'un produit pour obtenir plus d'informations."
+    },
+    "postPage": {
+      "title": "Poster",
+      "description": "Scanner un nouveau produit pour aider la communauté.",
+      "fields": {
+        "barcode": "Code-barre (optionnel, e.g. EAN, ISBN)",
+        "productName": "Nom du produit",
+        "country": "Pays d'origine",
+        "category": "Catégorie"
+      },
+      "certify": "Je certifie que ce produit existe. L'appareil sera bloqué en cas de spam.",
+      "create": "Créer",
+      "created": "Produit créé"
+    },
+    "settingsPage": {
+      "title": "Paramètres",
+      "language": "Langues",
+      "theme": "Thème",
+      "themeOptions": {
+        "light": "Clair",
+        "dark": "Sombre",
+        "system": "Système"
+      },
+      "userName": "Nom d'utilisateur",
+      "userNameNotSet": "Non paramétré"
+    },
+    "productPage": {
+      "title": "Produit",
+      "euQuestion": "Est-ce que ce produit est européen ?",
+      "euHint": "Nous prenons en compte la Grande-Bretagne, la Suisse, etc.",
+      "alternatives": "Alternatives",
+      "alternativeOf": "Alternative de",
+      "addAlternative": "Ajouter une alternative",
+      "comments": "Commentaires",
+      "noComments": "Pas de commentaires"
+    },
+    "alternativeListPage": {
+      "title": "Alternatives"
+    },
+    "productSelectPage": {
+      "title": "Choisir un produit",
+      "search": "Rechercher...",
+      "select": "Sélectionner",
+      "createNew": "Créer un nouveau produit"
+    },
+    "alternativeProductPage": {
+      "title": "Alternative",
+      "rating": "Alternative:",
+      "alternativeQuestion": "Est-ce que ce produit est une bonne alternative ?"
+    },
+    "noScanResultPage": {
+      "title": "Résultat de scan",
+      "description": "Aucun produit trouvé.",
+      "descriptionSub": "Voulez-vous ajouter un produit pour aider la communauté ?",
+      "select": "Choisir un produit"
+    },
+    "vote": {
+      "yes": "Oui",
+      "no": "Non",
+      "comment": "Commenter",
+      "enterComment": "Ajouter un commentaire",
+      "certify": "Aucun spam ou incitation à la haine"
+    },
+    "pagination": {
+      "emptyTitle": "Aucune entrée trouvée",
+      "emptyDescription": "Cette liste est vide."
+    },
+    "error": {
+      "generic": "Une erreur est survenue."
+    },
+    "world": "Monde",
+    "dialogs": {
+      "notEuropeanWarningDialog": {
+        "title": "Attention",
+        "content": "Ce produit n'est pas européen. Voulez-vous quand même l'ajouter ?"
+      },
+      "europeanWarningDialog": {
+        "title": "Attention",
+        "content": "Ce produit est européen. Seuls les produits non-européen doivent être ajoutés et débattus. Voulez-vous continuer ?"
+      },
+      "changeVoteWarning": {
+        "title": "Changer de vote",
+        "content": "Votre commentaire sera supprimé si vous changez votre vote. Voulez-vous continuer ?"
+      },
+      "productDeleteDialog": {
+        "title": "Supprimer un produit",
+        "content": "Voulez-vous vraiment supprimé ce produit ?"
+      }
+    },
+    "categories": {
+      "uncategorized": "Sans Catégorie",
+      "map(map)": {
+        "SOFTWARE": "Logiciels",
+        "ENTERTAINMENT": "Divertissement",
+        "ELECTRONICS": "Electronique",
+        "CLOTHING": "Vêtements",
+        "FOOD": "Nourriture / Boissons",
+        "HEALTH": "Santé",
+        "HOME": "Maison",
+        "MOBILITY": "Mobilité",
+        "FINANCE": "Finance",
+        "ENERGY": "Énergie"
+      },
+      "mapDescription(map)": {
+        "SOFTWARE": "Logiciels, Internet, Applications",
+        "ENTERTAINMENT": "Jeux, Films, Musique, Livres",
+        "ELECTRONICS": "Ordinateurs, Smartphones",
+        "CLOTHING": "Vêtements, Chaussures, Accessoires",
+        "FOOD": "Nourriture, Boissons",
+        "HEALTH": "Médicaments, Produits de beauté",
+        "HOME": "Ameublement, Décoration, Électroménager",
+        "MOBILITY": "Véhicules, Vélos, Trottinettes électriques",
+        "FINANCE": "Banques, Services de paiement, Assurances, Prêts",
+        "ENERGY": "Électricité, Gaz, Essence"
+      }
+    }
+  }
+  
