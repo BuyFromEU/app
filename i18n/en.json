@@ -29,7 +29,8 @@
     "fields": {
       "barcode": "Barcode (optional, e.g. EAN, ISBN)",
       "productName": "Product name",
-      "country": "Country of origin"
+      "country": "Country of origin",
+      "category": "Category"
     },
     "certify": "I certify that this product exists. The device will be blocked in case of spam.",
     "create": "Create",
@@ -91,6 +92,7 @@
   "error": {
     "generic": "An error occurred."
   },
+  "world": "World",
   "dialogs": {
     "notEuropeanWarningDialog": {
       "title": "Warning",
@@ -107,6 +109,33 @@
     "productDeleteDialog": {
       "title": "Delete product",
       "content": "Do you really want to delete this product?"
+    }
+  },
+  "categories": {
+    "uncategorized": "Uncategorized",
+    "map(map)": {
+      "SOFTWARE": "Software",
+      "ENTERTAINMENT": "Entertainment",
+      "ELECTRONICS": "Electronics",
+      "CLOTHING": "Clothing",
+      "FOOD": "Food / Beverages",
+      "HEALTH": "Health",
+      "HOME": "Home",
+      "MOBILITY": "Mobility",
+      "FINANCE": "Finance",
+      "ENERGY": "Energy"
+    },
+    "mapDescription(map)": {
+      "SOFTWARE": "Software, Internet services, Apps",
+      "ENTERTAINMENT": "Games, Movies, Music, Books",
+      "ELECTRONICS": "Computers, Smartphones",
+      "CLOTHING": "Clothing, Shoes, Accessories",
+      "FOOD": "Food, Beverages",
+      "HEALTH": "Medicines, Care products",
+      "HOME": "Furniture, Decoration, Household appliances",
+      "MOBILITY": "Vehicles, Bicycles, E-Scooters",
+      "FINANCE": "Banks, Payment services, Insurances, Loans",
+      "ENERGY": "Electricity, Gas, Petrol"
     }
   }
 }

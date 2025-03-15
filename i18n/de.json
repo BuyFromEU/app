@@ -29,7 +29,8 @@
     "fields": {
       "barcode": "Strichcode (optional, z.B. EAN, ISBN)",
       "productName": "Produktname",
-      "country": "Herkunftsland"
+      "country": "Herkunftsland",
+      "category": "Kategorie"
     },
     "certify": "Ich versichere, dass dieses Produkt existiert. Das Gerät wird bei Spam gesperrt.",
     "create": "Erstellen",
@@ -91,6 +92,7 @@
   "error": {
     "generic": "Ein Fehler ist aufgetreten."
   },
+  "world": "Welt",
   "dialogs": {
     "notEuropeanWarningDialog": {
       "title": "Warnung",
@@ -107,6 +109,33 @@
     "productDeleteDialog": {
       "title": "Produkt löschen",
       "content": "Möchtest du dieses Produkt wirklich löschen?"
+    }
+  },
+  "categories": {
+    "uncategorized": "Nicht kategorisiert",
+    "map(map)": {
+      "SOFTWARE": "Software",
+      "ENTERTAINMENT": "Entertainment",
+      "ELECTRONICS": "Elektronik",
+      "CLOTHING": "Kleidung",
+      "FOOD": "Lebensmittel",
+      "HEALTH": "Gesundheit",
+      "HOME": "Zuhause",
+      "MOBILITY": "Mobilität",
+      "FINANCE": "Finanzen",
+      "ENERGY": "Energie"
+    },
+    "mapDescription(map)": {
+      "SOFTWARE": "Software, Internetdienste, Apps",
+      "ENTERTAINMENT": "Spiele, Filme, Musik, Bücher",
+      "ELECTRONICS": "Computer, Smartphones",
+      "CLOTHING": "Kleidung, Schuhe, Accessoires",
+      "FOOD": "Lebensmittel, Getränke",
+      "HEALTH": "Medikamente, Pflegeprodukte",
+      "HOME": "Möbel, Dekoration, Haushaltsgeräte",
+      "MOBILITY": "Fahrzeuge, Fahrräder, E-Scooter",
+      "FINANCE": "Banken, Bezahldienste, Versicherungen, Kredite",
+      "ENERGY": "Strom, Gas, Benzin"
     }
   }
 }
