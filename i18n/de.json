@@ -38,13 +38,14 @@
   },
   "settingsPage": {
     "title": "Einstellungen",
-    "language": "Sprache",
     "theme": "Thema",
     "themeOptions": {
       "light": "Hell",
       "dark": "Dunkel",
       "system": "System"
     },
+    "language": "Sprache",
+    "country": "Land",
     "userName": "Benutzername",
     "userNameNotSet": "Nicht festgelegt"
   },
@@ -56,7 +57,9 @@
     "alternativeOf": "Alternative von",
     "addAlternative": "Alternative hinzufügen",
     "comments": "Kommentare",
-    "noComments": "Noch keine Kommentare"
+    "noComments": "Noch keine Kommentare",
+    "translate": "Übersetzen",
+    "showOriginal": "Original anzeigen"
   },
   "alternativeListPage": {
     "title": "Alternativen"
@@ -109,6 +112,15 @@
     "productDeleteDialog": {
       "title": "Produkt löschen",
       "content": "Möchtest du dieses Produkt wirklich löschen?"
+    },
+    "reportDialog": {
+      "title": "Melden",
+      "contentProduct": "Soll dieses Produkt entfernt oder geändert werden?",
+      "contentComment": "Soll dieser Kommentar entfernt werden?",
+      "change": "Ändern",
+      "delete": "Löschen",
+      "message": "Nachricht",
+      "thankYou": "Vielen Dank für deine Meldung. Wir werden sie so schnell wie möglich überprüfen."
     }
   },
   "categories": {
